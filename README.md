@@ -11,7 +11,7 @@ I am a Computer Science student based in Canada. I specialize in building secure
 - 🚀 **Recently shipped:** A Zero-Knowledge Secure File Vault utilizing AES-256-GCM and RSA-OAEP.
 - 🛠️ **Building with:** Java, Python, Flask, Docker, AWS, and GitHub Actions.
 - 📚 **Studying:** Computer Science at Concordia University.
-- 🤝 **Let's connect:** Always open to discussing cybersecurity, DevOps, backend engineering, infrastructure, and new opportunities!
+- 🤝 **Let's connect:** Always open to discussing cybersecurity, DevOps, backend engineering, infrastructure, and new opportunities.
 
 ---
 
